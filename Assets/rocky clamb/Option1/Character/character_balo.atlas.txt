@@ -1,0 +1,202 @@
+
+character_balo.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aput_phai
+  rotate: false
+  xy: 628, 190
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+aput_trai
+  rotate: true
+  xy: 662, 188
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+balo
+  rotate: false
+  xy: 2, 2
+  size: 174, 222
+  orig: 174, 222
+  offset: 0, 0
+  index: -1
+banchanphai
+  rotate: false
+  xy: 504, 228
+  size: 66, 84
+  orig: 66, 84
+  offset: 0, 0
+  index: -1
+banchantrai
+  rotate: true
+  xy: 679, 222
+  size: 66, 84
+  orig: 66, 84
+  offset: 0, 0
+  index: -1
+bantay_phai
+  rotate: false
+  xy: 404, 231
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+bantay_trai
+  rotate: false
+  xy: 921, 399
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+baptay_phai
+  rotate: false
+  xy: 185, 355
+  size: 217, 125
+  orig: 217, 125
+  offset: 0, 0
+  index: -1
+baptay_trai
+  rotate: false
+  xy: 185, 228
+  size: 217, 125
+  orig: 217, 125
+  offset: 0, 0
+  index: -1
+canhtay_phai
+  rotate: false
+  xy: 558, 337
+  size: 116, 143
+  orig: 116, 143
+  offset: 0, 0
+  index: -1
+canhtay_trai
+  rotate: false
+  xy: 676, 337
+  size: 116, 143
+  orig: 116, 143
+  offset: 0, 0
+  index: -1
+chanphai
+  rotate: true
+  xy: 572, 245
+  size: 45, 105
+  orig: 45, 105
+  offset: 0, 0
+  index: -1
+chantrai
+  rotate: true
+  xy: 685, 290
+  size: 45, 105
+  orig: 45, 105
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 404, 314
+  size: 152, 166
+  orig: 152, 166
+  offset: 0, 0
+  index: -1
+duiphai
+  rotate: true
+  xy: 794, 317
+  size: 43, 111
+  orig: 43, 111
+  offset: 0, 0
+  index: -1
+duitrai
+  rotate: true
+  xy: 572, 292
+  size: 43, 111
+  orig: 43, 111
+  offset: 0, 0
+  index: -1
+giayphai
+  rotate: false
+  xy: 921, 354
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+giaytrai
+  rotate: false
+  xy: 921, 354
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+mong
+  rotate: false
+  xy: 794, 362
+  size: 125, 118
+  orig: 125, 118
+  offset: 0, 0
+  index: -1
+ngoncai
+  rotate: true
+  xy: 717, 189
+  size: 31, 51
+  orig: 31, 51
+  offset: 0, 0
+  index: -1
+ngoncai_phai
+  rotate: false
+  xy: 209, 175
+  size: 31, 51
+  orig: 31, 51
+  offset: 0, 0
+  index: -1
+ngongiua_phai
+  rotate: false
+  xy: 765, 234
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+ngongiua_trai
+  rotate: true
+  xy: 572, 213
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+ngontro
+  rotate: false
+  xy: 178, 170
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+ngontro_phai
+  rotate: false
+  xy: 178, 114
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+ngonut_phai
+  rotate: false
+  xy: 986, 344
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+ngonut_trai
+  rotate: true
+  xy: 907, 317
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 226
+  size: 181, 254
+  orig: 181, 254
+  offset: 0, 0
+  index: -1

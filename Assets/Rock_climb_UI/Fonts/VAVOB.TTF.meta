@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 5c8d936a3211256468509b65d421fa5e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VNI-Avo
+  fontNames:
+  - VNI-Avo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4d1f8fa590ec48e439f43f010aa798e1, type: 3}
+  - {fileID: 12800000, guid: 4f8d53787e9105045bc926d181ccf567, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
