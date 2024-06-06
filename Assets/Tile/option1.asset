@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0d98f5be51926f46bc797504da5ad22, type: 3}
   m_Name: option1
   m_EditorClassIdentifier: 
-  AtlasTexture: {fileID: 2800000, guid: aa639863e85190a4c97bf4d9d8fd029f, type: 3}
+  AtlasTexture: {fileID: 2800000, guid: d24cff4f0926aff4a82eacdc4f675676, type: 3}
   TilePxSize: {x: 93, y: 134}
   SliceOffset: {x: 1, y: 1}
   SlicePadding: {x: 4, y: 0}
